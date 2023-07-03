@@ -15,6 +15,7 @@
 		395B5F6E2A532041001F355D /* FileOrganiserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395B5F6D2A532041001F355D /* FileOrganiserTests.swift */; };
 		395B5F782A532041001F355D /* FileOrganiserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395B5F772A532041001F355D /* FileOrganiserUITests.swift */; };
 		395B5F7A2A532041001F355D /* FileOrganiserUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395B5F792A532041001F355D /* FileOrganiserUITestsLaunchTests.swift */; };
+		395B5F872A5320CE001F355D /* FileOrganiser.py in Resources */ = {isa = PBXBuildFile; fileRef = 395B5F862A5320CE001F355D /* FileOrganiser.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		395B5F732A532041001F355D /* FileOrganiserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FileOrganiserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		395B5F772A532041001F355D /* FileOrganiserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileOrganiserUITests.swift; sourceTree = "<group>"; };
 		395B5F792A532041001F355D /* FileOrganiserUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileOrganiserUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		395B5F862A5320CE001F355D /* FileOrganiser.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = FileOrganiser.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				395B5F582A53203B001F355D /* FileOrganiserApp.swift */,
 				395B5F5A2A53203B001F355D /* FileOrganiserDocument.swift */,
 				395B5F5C2A53203B001F355D /* ContentView.swift */,
+				395B5F862A5320CE001F355D /* FileOrganiser.py */,
 				395B5F5E2A532040001F355D /* Assets.xcassets */,
 				395B5F602A532040001F355D /* Info.plist */,
 				395B5F612A532040001F355D /* FileOrganiser.entitlements */,
@@ -240,6 +243,7 @@
 			files = (
 				395B5F642A532040001F355D /* Preview Assets.xcassets in Resources */,
 				395B5F5F2A532040001F355D /* Assets.xcassets in Resources */,
+				395B5F872A5320CE001F355D /* FileOrganiser.py in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
